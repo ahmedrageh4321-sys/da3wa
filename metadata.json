@@ -1,0 +1,6 @@
+{
+  "name": "دعوة زفاف ملكية تفاعلية | Royal Wedding Invitation",
+  "description": "دعوة زفاف إلكترونية تفاعلية فاخرة مع شاشة فتح الظرف الملكي، عداد تنازلي، خريطة القاعة، سجل تهاني مربوط بجوجل شيتس، وموسيقى الليلة دي مع أنيميشن سلس للهواتف.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
